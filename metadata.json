@@ -1,0 +1,5 @@
+{
+  "name": "HabitFlow AI",
+  "description": "AI 기술을 활용한 스마트 습관 추적기입니다. 사용자의 습관 데이터를 분석하여 맞춤형 조언과 동기 부여를 제공하며, 직관적인 대시보드로 성장을 시각화합니다.",
+  "requestFramePermissions": []
+}
